@@ -128,7 +128,7 @@ centralized-dashboard/
 ## 🧑‍💻 Contributors
 
 - **Pathan Nagoorbasha** (Lead Developer)
-- Guided by: *Your College/Team Name*
+
 
 ---
 
